@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="task_outage" version="2" view="RPT3548b505cb603200dff9b9c0c24c9c19">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task</element>
+            <list_id display_value="task_outage" element="NULL" name="task_outage" parent="NULL" relationship="NULL" sys_domain="global" view="2e07e14ddbcc7b00c258f88eaf961985">4973a9cddbc0b300c855f8ecbf9619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_id>9173a9cddbc0b300c855f8ecbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>outage.cmdb_ci</element>
+            <list_id display_value="task_outage" element="NULL" name="task_outage" parent="NULL" relationship="NULL" sys_domain="global" view="2e07e14ddbcc7b00c258f88eaf961985">4973a9cddbc0b300c855f8ecbf9619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_id>1573a9cddbc0b300c855f8ecbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>outage.begin</element>
+            <list_id display_value="task_outage" element="NULL" name="task_outage" parent="NULL" relationship="NULL" sys_domain="global" view="2e07e14ddbcc7b00c258f88eaf961985">4973a9cddbc0b300c855f8ecbf9619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_id>9573a9cddbc0b300c855f8ecbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>outage.end</element>
+            <list_id display_value="task_outage" element="NULL" name="task_outage" parent="NULL" relationship="NULL" sys_domain="global" view="2e07e14ddbcc7b00c258f88eaf961985">4973a9cddbc0b300c855f8ecbf9619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_id>1973a9cddbc0b300c855f8ecbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>outage.duration</element>
+            <list_id display_value="task_outage" element="NULL" name="task_outage" parent="NULL" relationship="NULL" sys_domain="global" view="2e07e14ddbcc7b00c258f88eaf961985">4973a9cddbc0b300c855f8ecbf9619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_id>9973a9cddbc0b300c855f8ecbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task_outage</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:35:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4973a9cddbc0b300c855f8ecbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task_outage</sys_name>
+            <sys_package display_value="IT widgets" source="x_snc_it_widgets">8aa22d4ddbc0b300c855f8ecbf9619ff</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IT widgets">8aa22d4ddbc0b300c855f8ecbf9619ff</sys_scope>
+            <sys_update_name>sys_ui_list_task_outage_RPT3548b505cb603200dff9b9c0c24c9c19</sys_update_name>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:35:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt3548b505cb603200dff9b9c0c24c9c19" name="RPT3548b505cb603200dff9b9c0c24c9c19">2e07e14ddbcc7b00c258f88eaf961985</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

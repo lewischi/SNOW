@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cert_element" version="2" view="RPT915ef251df01300068c383f36bf26310">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cert_task</element>
+            <list_id display_value="cert_element" element="NULL" name="cert_element" parent="NULL" relationship="NULL" sys_domain="global" view="5a07e14ddbcc7b00c258f88eaf96197d">8ab32101db04b300c855f8ecbf961960</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_id>c2b32101db04b300c855f8ecbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to.name</element>
+            <list_id display_value="cert_element" element="NULL" name="cert_element" parent="NULL" relationship="NULL" sys_domain="global" view="5a07e14ddbcc7b00c258f88eaf96197d">8ab32101db04b300c855f8ecbf961960</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_id>46b32101db04b300c855f8ecbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="cert_element" element="NULL" name="cert_element" parent="NULL" relationship="NULL" sys_domain="global" view="5a07e14ddbcc7b00c258f88eaf96197d">8ab32101db04b300c855f8ecbf961960</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_id>c6b32101db04b300c855f8ecbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="cert_element" element="NULL" name="cert_element" parent="NULL" relationship="NULL" sys_domain="global" view="5a07e14ddbcc7b00c258f88eaf96197d">8ab32101db04b300c855f8ecbf961960</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_id>4ab32101db04b300c855f8ecbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comment</element>
+            <list_id display_value="cert_element" element="NULL" name="cert_element" parent="NULL" relationship="NULL" sys_domain="global" view="5a07e14ddbcc7b00c258f88eaf96197d">8ab32101db04b300c855f8ecbf961960</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_id>cab32101db04b300c855f8ecbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cert_element</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>lewis.chi@snc</sys_created_by>
+            <sys_created_on>2019-03-06 00:36:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ab32101db04b300c855f8ecbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cert_element</sys_name>
+            <sys_package display_value="IT widgets" source="x_snc_it_widgets">8aa22d4ddbc0b300c855f8ecbf9619ff</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IT widgets">8aa22d4ddbc0b300c855f8ecbf9619ff</sys_scope>
+            <sys_update_name>sys_ui_list_cert_element_RPT915ef251df01300068c383f36bf26310</sys_update_name>
+            <sys_updated_by>lewis.chi@snc</sys_updated_by>
+            <sys_updated_on>2019-03-06 00:36:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt915ef251df01300068c383f36bf26310" name="RPT915ef251df01300068c383f36bf26310">5a07e14ddbcc7b00c258f88eaf96197d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
